@@ -8,3 +8,6 @@
   - tipo identificador
   - tipo identificador
   - }
+
+- Matrizes: struct identificador variável[indice];
+- Funções: podemos passar os campos ou a variável completa para uma função
